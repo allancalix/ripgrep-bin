@@ -1,0 +1,11 @@
+{
+  "name": "ripgrep-bin",
+  "version": "0.7.1",
+  "description": "A wrapper around ripgrep binary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allan Calix",
+  "license": "MIT"
+}

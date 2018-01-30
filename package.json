@@ -3,9 +3,20 @@
   "version": "0.7.1",
   "description": "A wrapper around ripgrep binary",
   "main": "index.js",
+  "bin": {
+    "ripgrep": "cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Allan Calix",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "acalix/ripgrep-bin",
+  "keywords": [
+    "ripgrep",
+    "wrapper",
+    "binary",
+    "bin",
+    "cli"
+  ]
 }

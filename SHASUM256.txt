@@ -1,0 +1,2 @@
+bb86f79a29e21896c7dd41689779162ad7131f04  ripgrep-0.7.1-x86_64-apple-darwin/rg
+da39a3ee5e6b4b0d3255bfef95601890afd80709  ripgrep-0.7.1-x86_64-unknown-linux-musl

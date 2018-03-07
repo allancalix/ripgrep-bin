@@ -1,6 +1,6 @@
 {
   "name": "ripgrep-bin",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "A wrapper around ripgrep binary",
   "main": "index.js",
   "bin": {

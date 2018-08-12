@@ -9,6 +9,7 @@ all: clean build
 .PHONY: clean
 clean:
 	rm -rf ripgrep-*
+	rm -rf *SHASUM256.txt
 
 .PHONY: test
 test: $(RIPGREP_BINS)

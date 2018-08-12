@@ -1,2 +1,2 @@
-bbd5cb2563029c14019c36f3a93ae19bb0f2ee500e6574d52cdab11d62f83989  ripgrep-0.8.1-x86_64-apple-darwin/rg
-ce0604ae84d75b6defb5af5a3e2b2aa6d266f08273dbb5bfbf064fc348696041  ripgrep-0.8.1-x86_64-unknown-linux-musl/rg
+db7898418083281ffd38286be96f716e2a00d90b0d02041920341848c241f841  ripgrep-0.9.0-x86_64-apple-darwin/rg
+296a43cf837a93ceb7b9c649ba46708e49ac729f53cb7645caee3843c561881f  ripgrep-0.9.0-x86_64-unknown-linux-musl/rg

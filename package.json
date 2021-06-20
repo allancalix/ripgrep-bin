@@ -12,7 +12,7 @@
   },
   "author": "Allan Calix",
   "license": "MIT",
-  "repository": "acalix/ripgrep-bin",
+  "repository": "allancalix/ripgrep-bin",
   "keywords": [
     "ripgrep",
     "wrapper",

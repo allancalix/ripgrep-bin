@@ -1,10 +1,19 @@
-# Ripgrep-bin
-
+# ripgrep-bin
+---
 ## About
-This is a simple wrapper around ripgrep that allows for use in node. All credit for the tool goes to: https://github.com/BurntSushi/ripgrep.
+A simple wrapper around [Ripgrep](https://github.com/BurntSushi/ripgrep.) that allows for use in node. This package exists solely to make it convenient to call and bundle Ripgrep with Node applications.
 
-## Use
+This package can also be used to install the Ripgrep cli through node.
+## Installation
+```bash
+# Installs globally for binary access.
+npm i -g ripgrep-bin
+# Check version, note the name is different from the canonical version (rg).
+ripgrep --version
 ```
+## Use
+```javascript
+// index.js
 const execFile = require('child_process').execFile;
 const ripgrep = require('ripgrep-bin');
 
@@ -13,5 +22,3 @@ execFile(ripgrep, ['hello'], (err, stdout) => {
   console.log(stdout);
 });
 ```
-
-
